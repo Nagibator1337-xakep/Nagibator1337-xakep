@@ -3,8 +3,8 @@
 </div>
 <div align="center">to my GitHub account!</div>
 
-<h1 align="center">I'm Pavel Belov</h1>
-<h3 align="center">a beginner backend Java developer</h3>
+<h2 align="center">I am Pavel Belov
+<p></p>a beginner backend Java developer</h2>
 
 🌱 I’m currently learning **Spring Framework**
 
