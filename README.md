@@ -8,7 +8,9 @@
 
 🌱 I’m currently learning **Angular CLI**, **Spring Framework**
 
-📫 You can reach me at **pavel.beloff@gmail.com**
+📫 You can reach me at **[Telegram](https://t.me/pavel_12345)**
+
+📫 **pavel.beloff@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
