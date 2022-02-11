@@ -4,9 +4,9 @@
 <div align="center">to my GitHub account!</div>
 
 <h2 align="center">I am Pavel Belov
-<p></p>a beginner backend Java developer</h2>
+<p></p>a beginner web-developer</h2>
 
-🌱 I’m currently learning **Spring Framework**
+🌱 I’m currently learning **Angular CLI**, **Spring Framework**
 
 📫 You can reach me at **pavel.beloff@gmail.com**
 
